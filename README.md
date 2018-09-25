@@ -1,0 +1,2 @@
+# Bamazon
+inventory activity
